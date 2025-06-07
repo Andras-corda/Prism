@@ -31,7 +31,7 @@
 
 ## 🛠️ Built With
 
-- [.NET 8](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
+- [.NET 7](https://dotnet.microsoft.com/en-us/download/dotnet/7.0)
 - [WPF (Windows Presentation Foundation)](https://learn.microsoft.com/en-us/dotnet/desktop/wpf/)
 - MVVM Pattern (CommunityToolkit.MVVM)
 - Upcoming plugin system via MEF or .NET Assembly Loading
